@@ -1,9 +1,9 @@
 {
-  "name": "Dark purple",
+  "name": "Double-E Dark Purple",
   "dark": true,
-  "author": "JetBrains",
+  "author": "Leesa Ward",
 
-  "editorScheme": "/themes/darkPurpleScheme.xml",
+  "editorScheme": "/theme/Leesa_2023.icls",
 
   "ui": {
     "*": {
@@ -171,7 +171,8 @@
 
     "List": {
       "hoverBackground": "#00000033",
-      "hoverInactiveBackground": "#00000033"
+      "hoverInactiveBackground": "#00000033",
+      "rowHeight": 26
     },
 
     "MenuBar.borderColor": "#1a1721",
@@ -383,8 +384,9 @@
     },
 
     "Tree": {
-      "rowHeight": 20,
-      "hash": "#4E4C63",
+      "rowHeight": 24,
+      "paintLines": true,
+      "hash": "#3d3b4f",
       "hoverBackground": "#00000033",
       "hoverInactiveBackground": "#00000033"
     },

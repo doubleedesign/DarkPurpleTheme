@@ -1,12 +1,13 @@
-A dark theme in purple tones for JetBrains IDEs. For version 2019.1 and above.
+A dark theme in purple tones for JetBrains IDEs. Forked from [DarkPurpleTheme](https://github.com/OlyaB/DarkPurpleTheme).
 
 To install:
-* Go to _Settings (Preferences) | Plugins_, find the theme plugin and install it
+* Fork/clone/download this repo, or just download the compiled `.jar` file.
+* Go to _Settings (Preferences) | Plugins_, click the gear icon next to "Installed" and "Marketplace", and choose "Install plugin from disk"
+* Navigate to and select the .jar file
 * Restart IDE
-* Go to _Settings (Preferences) | Appearance & Behavior | Appearance_ and see the _Theme_ dropdown  
+* Go to _Settings (Preferences) | Appearance & Behavior | Appearance_ and select "Double-E Dark Purple" from the _Theme_ dropdown  
   
-  
-[In JetBrains plugin repository](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme) | [Report an issue](https://github.com/OlyaB/DarkPurpleTheme/issues)  
+[GitHub repository](https://github.com/doubleedesign/DarkPurpleTheme) | 
+[Original theme on JetBrains plugin repository](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme)
 
-![Dark purple theme main window](/screenshots/darkpurple-main-window.png)  
-![Dark purple theme settings](/screenshots/darkpurple-settings.png)
+![This dark purple theme in WebStorm](/screenshots/darkpurplecustom.png)
