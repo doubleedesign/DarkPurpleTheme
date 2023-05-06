@@ -1,4 +1,4 @@
-A dark theme in purple tones for JetBrains IDEs. Forked from [DarkPurpleTheme](https://github.com/OlyaB/DarkPurpleTheme).
+A dark UI theme in purple tones for JetBrains IDEs. Forked from [DarkPurpleTheme](https://github.com/OlyaB/DarkPurpleTheme). Also includes my custom WebStorm code colour scheme as the default.
 
 To install:
 * Fork/clone/download this repo, or just download the compiled `.jar` file.
