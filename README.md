@@ -11,3 +11,9 @@ To install:
 [Original theme on JetBrains plugin repository](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme)
 
 ![This dark purple theme in WebStorm](/screenshots/darkpurplecustom.png)
+
+## Development
+
+As of IntelliJ IDEA 2023.3 or later, the [Plugin DevKit](https://plugins.jetbrains.com/plugin/22851-plugin-devkit) must be installed from JetBrains Marketplace as it is no longer bundled with the IDE.
+
+To export a JAR that can be installed as a plugin, go to Build > Prepare plugin module for deployment.
